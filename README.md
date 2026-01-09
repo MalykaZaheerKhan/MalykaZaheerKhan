@@ -26,7 +26,7 @@
 
 ### 🔗 Connect With Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/malyka-khan" target="_blank">
+  <a href="https://www.linkedin.com/in/malyka-zaheer-b6436b33b/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BMdDBkK7eT6udpgb7YeuHBQ%3D%3D" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
