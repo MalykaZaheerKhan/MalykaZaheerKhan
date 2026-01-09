@@ -1,4 +1,4 @@
-## 👋 Hey, I'm Malyka Zaheer Khan!
+## 👋 Hey, I'm Malyka Khan!
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1200&color=FF00FF&center=true&vCenter=true&width=500&lines=Software+Engineer!" />
