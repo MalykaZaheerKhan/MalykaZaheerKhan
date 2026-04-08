@@ -9,7 +9,7 @@
 ### 👩‍💻 About Me
 - 🎓 Software Engineering Student  
 - 🧠 Interested in problem-solving, security & networking
-- 🌱 Currently learning **Data Structures**
+- 🌱 Currently learning **Web Developement**
 
 ---
 
