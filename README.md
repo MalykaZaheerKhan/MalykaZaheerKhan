@@ -37,7 +37,7 @@
 
 ### 🚀 Currently Working On
 - 🚖 RideCo – Real-Time Ride Sharing System (Flutter + Firebase + Web)
-- 🌐 Web Development Projects (HTML, CSS, JS, Bootstrap, Laravel)
+- 🌐 Web Development Projects (HTML, CSS, JS, Bootstrap, PHP, Laravel)
 - 📚 Improving backend development skills
 
 ---
